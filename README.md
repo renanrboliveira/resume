@@ -30,15 +30,18 @@ Github: renanrboliveira
 # TODO Translate for english 
 [2016 - current]  - Fractal Tecnologia (www.fractaltecnologia.com.br)
 Position: Technical leader and front-end developer
+
 Responsibilities: Desenvolve aplicações WEB para aplicações educacionais(LMS e E-learning) utilizando tecnologias como React e Ruby on Rails.
 
 [2013 - 2016]  - KAMALEON TI (www.kamaleon.com.br)
 Position: Programmer full-stack Java / Web
+
 Responsibilities: Desenvolveu aplicações web e desktop com HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL, Spring;	
 
 
 [2012 - 2013] - KAMALEON TI (www.kamaleon.com.br)
 Position: Trainee full-stack Java / Web
+
 Responsibilities: Desenvolveu aplicações web e desktop com HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL;
 
 ## Education
