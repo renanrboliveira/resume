@@ -14,12 +14,12 @@ Github: renanrboliveira
 * Responsive Design (Mobile First)
 * CSS (Sass)
 * Css Frameworks (Bootstrap, Bulma)
-* Webpack / Npm / Yarn 
+* Webpack / NPM / Yarn 
 * Javascript (Design Patterns, Tests)
-* Vuejs / Vuex / ReactJS / Redux
+* Vuejs / Vuex / React / Redux
 * NodeJS
-* Ruby/Rails
-* Java/Hibernate/Spring/Struts/Apache Velocity/Swing
+* Ruby / Rails
+* Java / Hibernate / Spring / Struts / Apache Velocity / Swing
 * Git
 * Postgres
 * TDD and Continuous Integration
@@ -28,24 +28,24 @@ Github: renanrboliveira
 
 ## Work Experience
 # TODO Translate for english 
-[2016 - Atual]  - Fractal Tecnologia (www.fractaltecnologia.com.br)
-Cargo: Líder técnico e desenvolvedor front-end
-Principais funções: Desenvolve aplicações WEB para aplicações educacionais(LMS e E-learning) utilizando tecnologias como React e Ruby on Rails.
+[2016 - current]  - Fractal Tecnologia (www.fractaltecnologia.com.br)
+Position: Technical leader and front-end developer
+Responsibilities: Desenvolve aplicações WEB para aplicações educacionais(LMS e E-learning) utilizando tecnologias como React e Ruby on Rails.
 
 [2013 - 2016]  - KAMALEON TI (www.kamaleon.com.br)
-Cargo: Programador full-stack Java Júnior / Web
-Principais funções: Desenvolveu aplicações web e desktop com HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL, Spring;	
+Position: Programmer full-stack Java / Web
+Responsibilities: Desenvolveu aplicações web e desktop com HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL, Spring;	
 
 
 [2012 - 2013] - KAMALEON TI (www.kamaleon.com.br)
-Cargo: Estagiário full-stack Java / Web
-Principais funções: Desenvolveu aplicações web e desktop com HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL;
+Position: Trainee full-stack Java / Web
+Responsibilities: Desenvolveu aplicações web e desktop com HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL;
 
 ## Education
 
 **Systems for internet in FATEC-PB** - June 2015 - December 2016
 
-**Degree course in Computer Science in Universidade Federal da Paraiba Campus IV** - January 2010 - June 2013 (Stopped)
+**Degree course in Computer Science in Federal University of Paraiba Campus IV** - January 2010 - June 2013 (Stopped)
 
 ## Courses
 
