@@ -8,7 +8,7 @@ Github: renanrboliveira
 
 ## About me
 
-I’am software engineer and passionate for web and new technologies, I <3 Javascript and Ruby on Rails. I live in constant learning.
+I’am software engineer and passionate for web and new technologies, I <3 Javascript and Ruby on Rails, but I'm always open about another technology . I live in constant learning.
 
 ## Skills
 
