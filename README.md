@@ -8,6 +8,8 @@ Github: renanrboliveira
 
 ## About me
 
+I’am software engineer and passionate for web and new technologies, I <3 Javascript and Ruby on Rails. I live in constant learning.
+
 ## Skills
 
 * HTML - Erb
