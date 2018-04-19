@@ -8,7 +8,7 @@ Github: renanrboliveira
 
 ## About me
 
-I’am software engineer and passionate for web and new technologies, I <3 Javascript and Ruby on Rails, but I'm always open about another technology . I live in constant learning.
+I’am frontend developer with extensive experience in backend, I passinate for web technologies and always open about another technology . I live in constant learning.
 
 ## Skills
 
@@ -18,9 +18,9 @@ I’am software engineer and passionate for web and new technologies, I <3 Javas
 * Css Frameworks (Bootstrap, Bulma)
 * Webpack / NPM / Yarn 
 * Javascript (Design Patterns, Tests)
-* Vuejs / Vuex / React / Redux
+* React / Redux / Vuejs / Vuex
 * NodeJS
-* Ruby / Rails
+* Ruby / Rails / Python / Django
 * Java / Hibernate / Spring / Struts / Apache Velocity / Swing
 * Git
 * Postgres
@@ -29,22 +29,22 @@ I’am software engineer and passionate for web and new technologies, I <3 Javas
 * Scrum and Kanban
 
 ## Work Experience
-# TODO Translate for english 
+
 [2016 - current]  - Fractal Tecnologia (www.fractaltecnologia.com.br)
 Position: Technical leader and front-end developer
 
-Responsibilities: Desenvolve aplicações WEB para aplicações educacionais(LMS e E-learning) utilizando tecnologias como React e Ruby on Rails.
+Responsibilities: Develops education application (LMS, E-learning and CRM) with React e Ruby on Rails.
 
 [2013 - 2016]  - KAMALEON TI (www.kamaleon.com.br)
 Position: Programmer full-stack Java / Web
 
-Responsibilities: Desenvolveu aplicações web e desktop com HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL, Spring;	
+Responsibilities: developed web applications and  desktop with HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL, Spring;	
 
 
 [2012 - 2013] - KAMALEON TI (www.kamaleon.com.br)
 Position: Trainee full-stack Java / Web
 
-Responsibilities: Desenvolveu aplicações web e desktop com HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL;
+Responsibilities: developed web applications and  desktop with HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL, Spring;	
 
 ## Education
 
