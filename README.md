@@ -31,20 +31,17 @@ I’am frontend developer with extensive experience in backend, I passinate for 
 ## Work Experience
 
 [2016 - current]  - Fractal Tecnologia (www.fractaltecnologia.com.br)
-Position: Technical leader and front-end developer
-
-Responsibilities: Develops education application (LMS, E-learning and CRM) with React e Ruby on Rails.
+- Position: Technical leader and front-end developer
+- Responsibilities: Develops education application (LMS, E-learning and CRM) with React e Ruby on Rails.
 
 [2013 - 2016]  - KAMALEON TI (www.kamaleon.com.br)
-Position: Programmer full-stack Java / Web
-
-Responsibilities: developed web applications and  desktop with HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL, Spring;	
+- Position: Programmer full-stack Java / Web
+- Responsibilities: developed web applications and  desktop with HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL, Spring;	
 
 
 [2012 - 2013] - KAMALEON TI (www.kamaleon.com.br)
-Position: Trainee full-stack Java / Web
-
-Responsibilities: developed web applications and  desktop with HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL, Spring;	
+- Position: Trainee full-stack Java / Web
+- Responsibilities: developed web applications and  desktop with HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL, Spring;	
 
 ## Education
 
