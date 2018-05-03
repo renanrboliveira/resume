@@ -8,7 +8,7 @@ Github: renanrboliveira
 
 ## About me
 
-I’am frontend developer with extensive experience in backend, I passinate for web technologies and always open about another technology . I live in constant learning.
+I am software engineer and passionate for web and new technologies, I <3 Javascript and Ruby on Rails, but I am always open about another technology. I live in constant learning.
 
 ## Skills
 
