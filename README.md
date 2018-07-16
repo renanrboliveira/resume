@@ -12,27 +12,27 @@ I am software engineer and passionate for web and new technologies, I <3 Javascr
 
 ## Skills
 
-* HTML - Erb
-* Responsive Design (Mobile First)
-* CSS (Sass)
+* HTML / Erb / Apache Velocity
+* Responsive Design
+* CSS (sass), CSS in JS (styled components, emotion)
 * Css Frameworks (Bootstrap, Bulma)
 * Webpack / NPM / Yarn 
 * Javascript (Design Patterns, Tests)
 * React / Redux / Vuejs / Vuex
 * NodeJS
 * Ruby / Rails / Python / Django
-* Java / Hibernate / Spring / Struts / Apache Velocity / Swing
+* Java / Hibernate / Spring / Struts / Swing
 * Git
 * Postgres
-* TDD and Continuous Integration
+* TDD / Continuous Integration
 * AWS (S3/CloudFront)
-* Scrum and Kanban
+* Scrum / Kanban
 
 ## Work Experience
 
 [2016 - current]  - Fractal Tecnologia (www.fractaltecnologia.com.br)
 - Position: Technical leader and front-end developer
-- Responsibilities: Develops education application (LMS, E-learning and CRM) with React e Ruby on Rails.
+- Responsibilities: Develops education application (LMS, E-learning and CRM) with React and Ruby on Rails.
 
 [2013 - 2016]  - KAMALEON TI (www.kamaleon.com.br)
 - Position: Programmer full-stack Java / Web
