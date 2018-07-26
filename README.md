@@ -14,6 +14,7 @@ I am software engineer and passionate for web and new technologies, I <3 Javascr
 
 * HTML / Erb / Apache Velocity
 * Responsive Design
+* UX / UI
 * CSS (sass), CSS in JS (styled components, emotion)
 * Css Frameworks (Bootstrap, Bulma)
 * Webpack / NPM / Yarn 
