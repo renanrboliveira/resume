@@ -26,7 +26,7 @@ I am software engineer and passionate for web and new technologies, I <3 Javascr
 * Git
 * Postgres
 * TDD / Continuous Integration
-* AWS (S3/CloudFront)
+* AWS
 * Scrum / Kanban
 
 ## Work Experience
