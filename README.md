@@ -32,8 +32,8 @@ I am software engineer and passionate for web and new technologies, I <3 Javascr
 ## Work Experience
 
 [2016 - current]  - Fractal Tecnologia (www.fractaltecnologia.com.br)
-- Position: Technical leader and front-end developer
-- Responsibilities: Develops education application (LMS, E-learning and CRM) with React and Ruby on Rails.
+- Position: Technical leader, front-end developer and Devops Engineer.
+- Responsibilities: Developed education application (LMS, E-learning and CRM) with React and Ruby on Rails.
 
 [2013 - 2016]  - KAMALEON TI (www.kamaleon.com.br)
 - Position: Programmer full-stack Java / Web
