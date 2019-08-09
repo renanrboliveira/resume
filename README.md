@@ -28,21 +28,25 @@ I am software engineer and passionate for web and new technologies, I <3 Javascr
 * TDD / Continuous Integration
 * AWS
 * Scrum / Kanban
+* Glassfish / Puma / Node
 
 ## Work Experience
 
 [2016 - current]  - Fractal Tecnologia (www.fractaltecnologia.com.br)
 - Position: Technical leader, front-end developer and Devops Engineer.
-- Responsibilities: Developed education application (LMS, E-learning and CRM) with React and Ruby on Rails.
+- Responsibilities: Developed education application (LMS, E-learning and CRM).
+- Stack: React, Ruby on Rails, Postgres and AWS.
 
 [2013 - 2016]  - KAMALEON TI (www.kamaleon.com.br)
 - Position: Programmer full-stack Java / Web
-- Responsibilities: developed web applications and  desktop with HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL, Spring;	
+- Responsibilities: developed web applications and  desktop.
+- Stack: HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, Glassfish, EJB, and Spring.
 
 
 [2012 - 2013] - KAMALEON TI (www.kamaleon.com.br)
 - Position: Trainee full-stack Java / Web
-- Responsibilities: developed web applications and  desktop with HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, EJB, SQL, Spring;	
+- Responsibilities: developed web applications and  desktop.
+- Stack: HTML, CSS, Javascript, Struts, Apache Velocity, PostgreSQL, Swing, Glassfish, EJB, and Spring.
 
 ## Education
 
