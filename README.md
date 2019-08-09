@@ -20,15 +20,14 @@ I am software engineer and passionate for web and new technologies, I <3 Javascr
 * Webpack / NPM / Yarn 
 * Javascript (Design Patterns, Tests)
 * React / Redux / Vuejs / Vuex
-* NodeJS
 * Ruby / Rails / Python / Django
 * Java / Hibernate / Spring / Struts / Swing
 * Git
-* Postgres
+* PostgreSQL / Mysql
 * TDD / Continuous Integration
 * AWS
 * Scrum / Kanban
-* Glassfish / Puma / Node
+* Glassfish / Puma / NodeJs
 
 ## Work Experience
 
