@@ -58,5 +58,5 @@ I am software engineer and passionate for web and new technologies, I <3 Javascr
 
 ## Extras
 
-* Speaker at Meetup Remote ParaibaJS 2017 - (React e suas tecnologias na prática)[https://goo.gl/fT36JE]
-* Speaker at React Day Paraíba - (O que danado é Sagas?)[https://docs.google.com/presentation/d/1anc4P8i9nN1JxANsovDjV3-Ll37_SBZWJA1hTwD_5mM/edit#slide=id.p]
+* Speaker at Meetup Remote ParaibaJS 2017 - React e suas tecnologias na prática - [Slides](https://goo.gl/fT36JE)
+* Speaker at React Day Paraíba - O que danado é Sagas? - [Slides](https://docs.google.com/presentation/d/1anc4P8i9nN1JxANsovDjV3-Ll37_SBZWJA1hTwD_5mM/edit#slide=id.p)
