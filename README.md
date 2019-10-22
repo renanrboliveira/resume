@@ -1,6 +1,6 @@
 # Renan Ribeiro de Oliveira
 
-Location: João Pessoa/PB - Brazil
+Location: São Paulo-SP / Brazil
 
 E-mail: renanrboliveira@gmail.com
 
@@ -8,7 +8,7 @@ Github: renanrboliveira
 
 ## About me
 
-I am software engineer and passionate for web and new technologies, I <3 Javascript and Ruby on Rails, but I am always open about another technology. I live in constant learning.
+Hey! I’m software engineer with focus in web technologies and infrastructure. I like big challenges and I help find good solutions. And now I’m diving into in functional programming.
 
 ## Skills
 
@@ -22,6 +22,7 @@ I am software engineer and passionate for web and new technologies, I <3 Javascr
 * React / Redux / Vuejs / Vuex
 * Ruby / Rails / Python / Django
 * Java / Hibernate / Spring / Struts / Swing
+* Clojure / Datomic
 * Git
 * PostgreSQL / Mysql
 * TDD / Continuous Integration
@@ -31,7 +32,12 @@ I am software engineer and passionate for web and new technologies, I <3 Javascr
 
 ## Work Experience
 
-[2016 - current]  - Fractal Tecnologia (www.fractaltecnologia.com.br)
+[2019 - current]  - Nubank (www.nubank.com.br)
+- Position: Software Engineer.
+- Responsibilities: Create solutions for Data protection for customer, e.g: LGPD.
+- Stack: Clojure, Datomic and AWS.
+
+[2016 - 2019]  - Fractal Tecnologia (www.fractaltecnologia.com.br)
 - Position: Technical leader, front-end developer and Devops Engineer.
 - Responsibilities: Developed education application (LMS, E-learning and CRM).
 - Stack: React, Ruby on Rails, Postgres and AWS.
