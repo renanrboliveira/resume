@@ -19,10 +19,10 @@ Hey! I’m software engineer with focus in web technologies and infrastructure. 
 * Css Frameworks (Bootstrap, Bulma)
 * Webpack / NPM / Yarn 
 * Javascript (Design Patterns, Tests)
-* React / Redux / Vuejs / Vuex
-* Ruby / Rails / Python / Django
+* React / Redux
+* Ruby / Rails / Python
 * Java / Hibernate / Spring / Struts / Swing
-* Clojure / Datomic
+* Clojure / Datomic / Kafka
 * Git
 * PostgreSQL / Mysql
 * TDD / Continuous Integration
